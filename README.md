@@ -3,7 +3,7 @@
 
 Sou Engenheira de Controle e Automação com experiência em robótica móvel. Com um perfil que tem facilidade com números e lógica, busco me aprofundar na área de controle, especializando em dados por meio de Data Science.
 
-À medida que exploro cada vez mais o universo dos dados, descubro que essa é realmente a área que mais me agrada e que desejo continuar estudando e expandindo meu conhecimento nela. Estou ansiosa para mergulhar mais profundamente nesse campo e apoveitar os caminhos que a ciência de dados proporciona.
+À medida que exploro cada vez mais o universo dos dados, descubro que essa é realmente a área que mais me agrada e que desejo continuar estudando e expandindo meu conhecimento. Estou ansiosa para mergulhar mais profundamente nesse campo e apoveitar os caminhos que a ciência de dados proporciona.
 
 <div align="center">
 <img src="https://github.com/naimeaiub/naimeaiub/assets/111865299/3be3ed13-a26b-4f0a-b221-55e63b531de0" width="350" height="200"> <img src="https://github.com/naimeaiub/naimeaiub/assets/111865299/dacc9718-269b-4aa2-aec3-01958f8133c1" width="350" height="200">
@@ -19,14 +19,8 @@ Sou Engenheira de Controle e Automação com experiência em robótica móvel. C
 ## Estou aprendendo
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>  
           
-          
-          
-          
-          
-          
-
 ## Contatos:
 
 <div>
