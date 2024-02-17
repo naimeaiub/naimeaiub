@@ -39,5 +39,5 @@ Sou Engenheira de Controle e Automação com experiência em robótica móvel. C
 
 </div>
 
-![snake gif](https://github.com/naimeaiub/naimeaiub/blob/output/github-contribution-grid-snake.svg)         
+![snake gif](https://github.com/naimeaiub/naimeaiub/blob/output/github-contribution-grid-snake-dark.svg)         
 
